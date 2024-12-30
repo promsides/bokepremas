@@ -147,11 +147,11 @@ const Navbar = async () => {
             <div className="flex flex-row space-x-2">
                 <div className="hidden md:flex items-center gap-4">
 			<Link
-                        href="https://bokepsatset.com"
+                        href="https://ukhtismp.pages.dev"
                         className="hover:bg-accent px-2 py-1.5 rounded-md"
                         aria-label="Bokep Satset"
                     	>
-                        Bokep Satset
+                        Bokep Smp
                     	</Link>
                     <NavMenu folders={folders}></NavMenu>
                 </div>
